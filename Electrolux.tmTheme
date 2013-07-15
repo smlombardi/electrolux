@@ -429,7 +429,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80619f</string>
+				<string>#c43131</string>
 			</dict>
 		</dict>
 		<dict>
@@ -462,9 +462,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88ddff</string>
-				<key>background</key>
-				<string>#3f3f3f</string>
+				<string>#50a2c2</string>
+				<!-- <key>background</key>
+				<string>#3f3f3f</string> -->
 			</dict>
 		</dict>
 		<dict>
@@ -475,9 +475,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#afef5f</string>
-				<key>background</key>
-				<string>#3f3f3f</string>
+				<string>#82b246</string>
+				<!-- <key>background</key>
+				<string>#3f3f3f</string> -->
 			</dict>
 		</dict>
 		<dict>
@@ -888,7 +888,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a57979</string>
+				<string>#88a48e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -917,11 +917,13 @@
 			<key>name</key>
 			<string>CSS: Keywords and Colors</string>
 			<key>scope</key>
-			<string>constant.other.color.rgb-value.css, support.constant.property-value.css</string>
+			<string>constant.other.color.rgb-value, support.constant.property-value.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efefef</string>
+				<string>#adbd72</string>
+				<key>fontStyle</key>
+				<string>Normal</string>
 			</dict>
 		</dict>
 		<dict>
@@ -981,7 +983,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9974be</string>
+				<string>#e6db74</string>
 			</dict>
 		</dict>
 		<dict>
